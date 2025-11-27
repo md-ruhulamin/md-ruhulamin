@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on [**Delicious**](https://github.com/md-ruhulamin/delicious) — a Flutter food app.  
+- 🔭 I’m currently working on [**Skill Stack**](https://github.com/md-ruhulamin/delicious) — a Flutter food app.  
 - 🌱 I’m exploring advanced **state management (BLoC / GetX)** and **clean architecture** in Flutter.  
 - 👨‍💻 All of my projects are available at [**ruhulamin63.netlify.app**](https://ruhulamin63.netlify.app/)  
 - 💬 Ask me about **Flutter, C++, Python, Java**  
